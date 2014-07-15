@@ -3583,7 +3583,7 @@
     },
     {
       "name": "Function Point Analysis Tool",  
-      "thumb": "function-point-analysis-tool/img/fpatool1.png", 
+      "thumb": "function-point-analysis-tool/fpatool.png", 
       "desc": "Helps to do effort estimation of software projects using function point analysis technique", 
       "url": "http://function-point-analysis.appspot.com", 
       "info": "http://vitalflux.com/function-point-analysis-tool-angularjs", 
